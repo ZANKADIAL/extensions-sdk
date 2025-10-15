@@ -43,3 +43,5 @@ Check the `/examples` directory for more advanced use cases.
 ## License
 
 Educational License
+
+# PR Merge: 2025-10-15 - enhancement/merge-9631
