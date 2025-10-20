@@ -33,3 +33,5 @@ Generated documentation for extensions-sdk.
 # PR Merge: 2025-10-15 - feature/merge-4672
 
 # PR Merge: 2025-10-15 - fix/merge-1328
+
+# PR Merge: 2025-10-15 - refactor/merge-9960
